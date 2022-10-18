@@ -16,3 +16,16 @@ When click on the Insert button it open the form and save form data.
 
 ![image](https://user-images.githubusercontent.com/58267203/196419990-0dcc8f16-8640-41b6-910e-a6e606dea8d0.png)
 
+Also I have aded update and delete record functionality
+
+#### Update records screenshort 
+
+![image](https://user-images.githubusercontent.com/58267203/196420404-e2c67de7-93a5-401e-af5e-4b2fc7fa2ece.png)
+
+Also I have added Sweet alert for inser delete and update.
+
+![image](https://user-images.githubusercontent.com/58267203/196420690-2956eb0c-6713-43e3-b325-1918d09a1a7f.png)
+
+I have done full CURD operation
+
+# Md Muzaffer Alam
